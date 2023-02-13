@@ -4,7 +4,7 @@ metadata:
   labels:
     app.kubernetes.io/created-by: modeldynamics-helix
     app.kubernetes.io/managed-by: modeldynamics
-    app.kubernetes.io/name: test02
+    app.kubernetes.io/name: ggg
     app.kubernetes.io/part-of: helix-project
-  name: helix-test02
+  name: helix-ggg
   namespace: argocd
